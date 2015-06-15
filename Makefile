@@ -1,3 +1,6 @@
+# vtlock - virtual terminal locker
+# See LICENSE file for copyright and license details.
+
 include config.mk
 
 SRC = vtlock.c
